@@ -211,7 +211,7 @@ header {
 
 .code {
   background-color: #000;
-  padding: 1%;
+  padding: 2%;
   border-radius: 5px;
   font-size: 1rem;
   line-height: 1;
@@ -275,6 +275,6 @@ footer {
   }
 
   .code {
-    font-size: .8rem;
+    font-size: .7rem;
   }
 }
